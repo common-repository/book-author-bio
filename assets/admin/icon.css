@@ -1,0 +1,27 @@
+.bwdab-author-bio::after {
+    content: 'bwd' !important;
+    position: absolute !important;
+    right: 7px;
+    top: 7px;
+    color: #fffefe;
+    font-family: initial;
+    background: linear-gradient(90deg, #03a9f4, #f441a5);
+    border-radius: 3px;
+    font-size: 11px;
+    padding: 2px 5px;
+}
+.elementor-control.elementor-control-type-heading .elementor-control-title {
+    font-size: 15px!important;
+}
+
+  .elementor-control-bwdab_author_pro_text_content_section .elementor-panel-heading-title, .elementor-control-mtt_team_unique-control-name h3.elementor-control-title{
+    color: #93003c !important;
+  }
+  span.pro-feature {
+    font-size: 15px;
+    font-style: italic;
+    font-weight: bold;
+  }
+.elementor-control-bwdab_author_eael_control_get_prsso .elementor-control-field, .elementor-control-bwdab_author_bio_get_prssosafsf .elementor-control-field{
+  display: none !important;
+}
